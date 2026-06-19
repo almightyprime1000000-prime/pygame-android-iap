@@ -26,7 +26,7 @@ version = 0.3
 
 # [IAP RELEVANT] 'jnius' is the Python-Java bridge that lets Python
 # call BillingShim.java. 'android' provides Android API access.
-requirements = python3==3.10.12,hostpython3==3.10.12,pygame,jnius,android
+requirements = python3==3.10.12,hostpython3==3.10.12,pygame,pyjnius
 
 icon.filename = icon.png
 orientation = landscape-reverse
