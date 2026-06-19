@@ -114,7 +114,8 @@ If you need Unity Rewarded Ads for your Pygame Android game, a separate tutorial
 Built by **Wonder Kofi Junior** (AlmightyPrime), a solo developer from Ghana.
 Two years of learning, failing, and finishing — on midnight internet data.
 
-Support The Project
+##Support The Project
+
 If this repository helped you integrate In App Purchase into your Pygame Android game, or if you'd like to try a fully integrated production example on Google Play, please consider:
 
 Starring this repository
