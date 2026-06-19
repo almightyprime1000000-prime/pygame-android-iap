@@ -114,5 +114,15 @@ If you need Unity Rewarded Ads for your Pygame Android game, a separate tutorial
 Built by **Wonder Kofi Junior** (AlmightyPrime), a solo developer from Ghana.
 Two years of learning, failing, and finishing — on midnight internet data.
 
-Game: **Skiptrace** — https://play.google.com/store/apps/details?id=com.almightyprime.skiptrace
+Support The Project
+If this repository helped you integrate In App Purchase into your Pygame Android game, or if you'd like to try a fully integrated production example on Google Play, please consider:
+
+Starring this repository
+Sharing it with other developers
+Downloading and rating Skiptrace on Google Play
+
+Play Store: https://play.google.com/store/apps/details?id=com.almightyprime.skiptrace
+
 Developer story: https://www.fixgamingchannel.com/from-a-jackie-chan-movie-to-google-play-the-story-of-skiptrace/
+
+Your support helps me continue creating tutorials and open-source resources for the Pygame Android community.
